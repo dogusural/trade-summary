@@ -1,0 +1,3 @@
+// AES 256 Encrypted metadata
+
+{"exchanges": [{"name": "Binance", "website": "binance.com", "keys": [{"api-key": "/M6579RLjw7sTu9aDm94DQ8m5Oq1QyHBuPgPzllL9NqEWo2BdvbLlnDzx8mDLfr0Rc0dW6n0xIzl0JQiVRQWTRoe5Om0Uz2s1wz6oNqNAWyTVmpPJKz1Mcx29mnxVTP4"}, {"api-secret": "yPei1gG6MFzy55ycCKquqdH3uwrP/e+fFFV72x7jh7AXthbeBDyc3mBC+eoBNeEXHx8vCx58ZNxrY9Xj8EW53MuPG6mwcBoiNpUABSYBcPPY5o+dwP+7cVqOs2KAThVH"}]}]}
