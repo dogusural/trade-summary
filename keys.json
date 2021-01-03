@@ -1,3 +1,1 @@
-// AES 256 Encrypted metadata
-
-{"exchanges": [{"name": "Binance", "website": "binance.com", "keys": [{"api-key": "/M6579RLjw7sTu9aDm94DQ8m5Oq1QyHBuPgPzllL9NqEWo2BdvbLlnDzx8mDLfr0Rc0dW6n0xIzl0JQiVRQWTRoe5Om0Uz2s1wz6oNqNAWyTVmpPJKz1Mcx29mnxVTP4"}, {"api-secret": "yPei1gG6MFzy55ycCKquqdH3uwrP/e+fFFV72x7jh7AXthbeBDyc3mBC+eoBNeEXHx8vCx58ZNxrY9Xj8EW53MuPG6mwcBoiNpUABSYBcPPY5o+dwP+7cVqOs2KAThVH"}]}]}
+{"exchanges": [{"name": "Binance", "website": "binance.com", "keys": [{"api-key": "/S30dsr9ubJnziIZsi5/fKQVsIvP1pdWv9X/oDkXaaCm69/zSi20qh7+t7uUBLZe6nzPO1F8I7w/kER7TEkSZroCiP5EGz0V74VFfUAwRGbkidrET0M89+bE+IbT9o+M"}, {"api-secret": "z/ZZuv5zw7QVNj9RioLM49c+E2eqAPQ6LUAbZ1YkL1lNx/ewHMyKUShWs+vaIn54yQMaSgwupwCsdcVb4M6DIl6duB3qwd2kkmL635N68eXACDBT9ZFRcqaW9GDlYCfN"}]}]}
