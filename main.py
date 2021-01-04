@@ -10,6 +10,7 @@ import aes
 try:
     with open('keys.json') as file:
         documents = json.load(file)
+        print("keys.json found. Proceeding ...")
         encrypted_api_key= documents["exchanges"][0]['keys'][0]['api-key']
         encrypted_api_secret = documents["exchanges"][0]['keys'][1]['api-secret']
         key = input("Enter your password :").encode()
@@ -36,7 +37,9 @@ except IOError:
         })
         data = json.dump(data, file)
 
-
+except KeyError:
+    print("There seems to be an error within the \"keys.json\" file. Terminating the program ...")
+    exit()
 
 
 BASE_URL="https://api.binance.com/"
